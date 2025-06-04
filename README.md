@@ -57,6 +57,6 @@ The dataset includes information like:
 
 **Firdose Anjum**  
 2nd Year B.Tech – Chemical Engineering, IITH  
-[AIML Enthusiast | LinkedIn](linkedin.com/in/firdose-anjum-ml)
+[AIML Enthusiast | LinkedIn](https://www.linkedin.com/in/firdose-anjum-ml)
 
 ---
